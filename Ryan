@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Primeiro Site</title>
+</head>
+<body>
+  <h1>Olá, eu sou [Seu Nome]</h1>
+  <p>Esse é meu primeiro projeto em HTML!</p>
+</body>
+</html>
